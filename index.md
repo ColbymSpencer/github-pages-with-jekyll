@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+# Yo Yo Yo! ?Que Esta Passando Cara de Vainilla?
 ---
-
-I'm glad you are here. I plan to talk about ...
+We learnin spanish today chicas
