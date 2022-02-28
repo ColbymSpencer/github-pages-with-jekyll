@@ -1,5 +1,8 @@
 theme: minima
-title: Yo Yo Yo Que Esta Passando Cara de Vainilla
+---
+title: "Yo Yo Yo Que Esta Passando Cara de Vainilla"
+date: 2022-02-28
+---
 author: Colby S
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
